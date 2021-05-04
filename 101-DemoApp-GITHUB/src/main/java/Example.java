@@ -1,5 +1,8 @@
 
 public class Example {
+
+	String name;
+	int age;
 	public Example()
 	{
 	
