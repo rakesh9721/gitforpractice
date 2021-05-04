@@ -1,8 +1,8 @@
-
 public class Example {
 
 	String name;
 	int age;
+	double price;
 	public Example()
 	{
 	
